@@ -6,3 +6,4 @@ For any questions about the code please contact Evy at e.gobbens@gmail.com
 
 To use any data contained in this repository contact Allert at allert.bijleveld@nioz.nl for permission.
 
+[![DOI](https://zenodo.org/badge/580049026.svg)](https://zenodo.org/badge/latestdoi/580049026)
