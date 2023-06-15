@@ -1,4 +1,4 @@
-## Repository for manuscript: Relocation flights within the overwintering range of red knots _(Calidris canutus)_ require similar departure conditions as migratory flights
+## Repository for manuscript: Departure conditions for relocation flights within the overwintering range are similar to large-scale migratory flights in red knots (Calidris Canutus) 
 
 _Evy Gobbens, Christine E. Beardsworth, Anne Dekinga, Job ten Horn, Ran Nathan, Sivan Toledo, and Allert I. Bijleveld_
 
